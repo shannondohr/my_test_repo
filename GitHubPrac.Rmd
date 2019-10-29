@@ -1,0 +1,15 @@
+---
+title: "GitHubPrac"
+author: "Shannon Dohr"
+date: "10/29/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+2 + 2 + 4
+```
+
